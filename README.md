@@ -91,3 +91,4 @@ You can find and customize these variables in the `_variables.scss` file.
 Latest ✔ | Latest ✔ | Latest ✔ | 11+ ✔ | 9.1+ ✔ | Latest ✔ |
 "# ImageHover" 
 "# ImageHover" 
+"# ImageHover" 
