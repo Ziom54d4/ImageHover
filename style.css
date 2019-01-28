@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-body {
-    background-color: #303030;
-}
-
 body::-webkit-scrollbar {
     width: 13px;
     height: 13px;
@@ -36,6 +32,7 @@ body::-webkit-scrollbar-track {
 #container-fluid
 {
     min-height: 100vh;
+    background-color: #303030;
 }
 
 #writter {
