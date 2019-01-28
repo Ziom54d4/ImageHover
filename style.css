@@ -40,8 +40,8 @@ body::-webkit-scrollbar-track {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    margin-top: 45px;
-    margin-bottom: 30px;
+    padding-top: 45px;
+    padding-bottom: 30px;
 }
 
 #writter h1 {
@@ -88,7 +88,6 @@ img {
     display: flex;
     justify-content: center;
     margin-top: 15px;
-    margin-bottom: 20px;
 }
 
 .icon-down-big
